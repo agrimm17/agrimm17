@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agrimm17
-- 👀 I’m interested in - gaming / pop-nerd culture. DND, Game of Thrones, Marvel (I know it's terrible), and a *little* bit of League
+- 👀 I’m interested in - gaming / pop-nerd culture. DND, Game of Thrones, Marvel (I know it's terrible)
 - 🌱 I’m currently learning - as much as I can to get ready for the codesmith intensive, the more I know before we start, the better!
 - 💞️ I’m looking to collaborate on - anything / everything in the CS program! Reach out, lets do some partner-work :)
 - 📫 How to reach me - Alexandergrimm17@gmail.com
